@@ -1,3 +1,3 @@
 # test_repo
 
-![drawing](drawing.jpg){ width=50% }
+<img src="Assets/icon.png" width="200">
