@@ -1,7 +1,8 @@
 # test_repo
 
 <h1 align=center> Test </h1>
-https://img.shields.io/badge/Doc-Test%20link-green
+[![Build Status](https://img.shields.io/badge/Doc-Test%20link-green)](https://travis-ci.com/liyasthomas/banner) [![GitHub release]
+
 
 
 
