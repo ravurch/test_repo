@@ -1,3 +1,3 @@
 # test_repo
 
-![](./pic/pic1_50.png =100x20)
+<h1 align=center> Test </h1>
